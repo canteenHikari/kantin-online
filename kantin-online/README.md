@@ -157,7 +157,7 @@ Firebase      Status berubah ke: paid
 |-------|------------|
 | 🔄 Real-time update | Firebase Firestore onSnapshot |
 | 💳 QRIS Payment | Integrasi QRIS AllPay statis |
-| 🌱 Eco Mode | Diskon Rp 500 bawa tempat sendiri |
+| 🌱 Eco Mode | Diskon Rp 500 tanpa plastik |
 | 📊 Statistik | Omzet + jumlah order otomatis |
 | 🎉 Confetti | Animasi saat order selesai |
 | 📍 Delivery tracking | Status dari dapur ke kelas |
