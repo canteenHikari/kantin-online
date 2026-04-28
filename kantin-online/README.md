@@ -1,6 +1,6 @@
-# 🍽️ Kantin Digital — Sistem Pemesanan Kantin Sekolah
+# 🍽️ Kantin Digital Ramah Lingkungan — Sistem Pemesanan Kantin Sekolah
 
-> Proyek lomba coding · GoFood versi sekolah · Delivery ke kelas · QRIS Payment
+> Dengan adanya aplikasi ini, diharapkan tercipta sistem kantin yang lebih terorganisir, efisien, serta mampu mengurangi limbah plastik dan makanan melalui pemanfaatan teknologi digital di lingkungan sekolah.
 
 ---
 
